@@ -1,0 +1,2 @@
+# java-program-to-find-palindromes-from-a-text-in-a-file
+Java program to read the contents of the file containing “There is a madam from Kerala who speaks Malayalam fluently and drives racecar by hearing Malayalam songs.” as a character stream. Find the number of palindromes in the input file and write the count in the output file named “out.txt”. Use try-with resources to handle the exception that may be raised when out of bounds string and invalid file name is accessed.
